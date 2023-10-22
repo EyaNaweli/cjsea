@@ -1,1 +1,1 @@
-console.log("hello a5yeb iskander🦉😈😒")
+console.log("hello a5yeb iskander😈")
